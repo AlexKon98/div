@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  src: url('@/assets/fonts/Montserrat-ExtraBold.woff') format('woff'), url('@/assets/fonts/Montserrat-ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('@/assets/fonts/Montserrat-Bold.woff') format('woff'), url('@/assets/fonts/Montserrat-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('@/assets/fonts/Montserrat-Regular.woff') format('woff'), url('@/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+input,
+button,
+select {
+  font-family: 'Montserrat', sans-serif;
+  color: $black;
+}
+
+html {
+  &.visible {
+    overflow: visible !important;
+  }
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+select {
+  outline: none;
+
+  &:focus,
+  &:active,
+  &:focus-within,
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+.container {
+  width: 100%;
+  max-width: 900px;
+  padding: 0 7px;
+  margin: 0 auto;
+  display: block;
+
+  &.nopadding {
+    padding: 0;
+  }
+}
+
+img {
+  pointer-events: none;
+}
+
+button {
+  cursor: pointer;
+}

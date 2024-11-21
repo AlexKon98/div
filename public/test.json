@@ -1,0 +1,209 @@
+[
+  {
+    "question": "Что такое операционная система?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Это просто программа на компьютере, как и другие - Word или Chrome",
+        "isChecked": false
+      },
+      {
+        "text": "Это показатель того, какой процессор используется на компьютере. Например, 32-битный или 64-битный",
+        "isChecked": false
+      },
+      {
+        "text": "Это набор взаимосвязанных программ, осуществляющих управление компьютером и взаимодействие с пользователем",
+        "isChecked": false,
+        "isCorrect": true
+      },
+      {
+        "text": "Нет такого понятия, есть понятие \"файловая система\"",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "question": "Является ли Android операционной системой?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Да, это такая же ОС, как и другие, просто для мобильных девайсов",
+        "isChecked": false,
+        "isCorrect": true
+      },
+      {
+        "text": "Нет, операционные системы бывают только для ПК",
+        "isChecked": false
+      },
+      {
+        "text": "Нет, Android это программа, которая ставится на операционную систему девайса. ОС на разных девайсах разные",
+        "isChecked": false
+      },
+      {
+        "text": "Это домашняя страничка в настройках вашего браузера",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "question": "Что такое процессор компьютера?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Это блок, внутри которого находится дисковод и много разъемов для монитора, клавиатуры и компьютерной мышки",
+        "isChecked": false
+      },
+      {
+        "text": "Это общее название всех комплектующих компьютера",
+        "isChecked": false
+      },
+      {
+        "text": "Это элемент компьютера, с помощью которого обрабатывается информация, находящаяся как в собственной памяти, так и в памяти других устройств",
+        "isChecked": false,
+        "isCorrect": true
+      },
+      {
+        "text": "Это суммарный показатель вычислительной мощности компьютера, например 2,7 ГГц",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "question": "Какие бывают разрядности у современных процессоров?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "32 и 64 бита",
+        "isChecked": false,
+        "isCorrect": true
+      },
+      {
+        "text": "12 и 32 бита",
+        "isChecked": false
+      },
+      {
+        "text": "15 и 32 бита",
+        "isChecked": false
+      },
+      {
+        "text": "86 и 64 бита",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "question": "Какой тип процессора чаще всего используют мобильные девайсы?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "iOS использует Intel, остальные используют AMD",
+        "isChecked": false
+      },
+      {
+        "text": "Чаще всего используют Intel",
+        "isChecked": false
+      },
+      {
+        "text": "Чаще всего используют AMD",
+        "isChecked": false
+      },
+      {
+        "text": "Чаще всего используют ARM",
+        "isChecked": false,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Для чего компьютеру нужна RAM?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Для быстрого доступа к данным",
+        "isChecked": false,
+        "isCorrect": true
+      },
+      {
+        "text": "Для долгосрочного хранения данных",
+        "isChecked": false
+      },
+      {
+        "text": "Для правильной фрагментации памяти",
+        "isChecked": false
+      },
+      {
+        "text": "Для дефрагментации данных",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "question": "Чем отличается HDD от SSD?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "HDD - это твердотельный накопитель без подвижных частей. Более дешевый, чем SSD. HDD работает быстрее",
+        "isChecked": false
+      },
+      {
+        "text": "HDD - это твердотельный накопитель без подвижных частей. Более дорогой, чем SSD. HDD работает быстрее",
+        "isChecked": false
+      },
+      {
+        "text": "SSD - это твердотельный накопитель без подвижных частей. Более дешевый, чем HDD. SSD работает быстрее",
+        "isChecked": false
+      },
+      {
+        "text": "SSD - это твердотельный накопитель без подвижных частей. Более дорогой, чем HDD. SSD работает быстрее",
+        "isChecked": false,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Как отличаются между собой USB?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Бывают только USB 2.0 и 3.2",
+        "isChecked": false
+      },
+      {
+        "text": "Бывают только micro-USB и mini-USB",
+        "isChecked": false
+      },
+      {
+        "text": "USB отличаются по пропускной способности (micro-USB, mini-USB, lightning и т.д.) и форме (USB 2.0, USB 3.2).",
+        "isChecked": false
+      },
+      {
+        "text": "USB отличаются по форме (micro-USB, mini-USB, lightning и т.д.) и пропускной способности (USB 2.0, USB 3.2)",
+        "isChecked": false,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Какой файловой системы не существует?",
+    "isAnswered": false,
+    "answers": [
+      {
+        "text": "Fat",
+        "isChecked": false
+      },
+      {
+        "text": "NTFS",
+        "isChecked": false
+      },
+      {
+        "text": "APFS",
+        "isChecked": false
+      },
+      {
+        "text": "BolSFS (+)",
+        "isChecked": false,
+        "isCorrect": true
+      }
+    ]
+  }
+]
